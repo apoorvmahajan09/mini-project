@@ -1,0 +1,6 @@
+.container {
+  border: 1px dotted black;
+  background-color: rgba(0, 229, 255, 0.241);
+  min-width: 100%;
+  min-height: 100vh;
+}
